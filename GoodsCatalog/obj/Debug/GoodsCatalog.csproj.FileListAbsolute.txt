@@ -1,0 +1,16 @@
+C:\Users\student.LAN\Downloads\GoodsCatalog\GoodsCatalog\bin\Debug\GoodsCatalog.exe.config
+C:\Users\student.LAN\Downloads\GoodsCatalog\GoodsCatalog\bin\Debug\GoodsCatalog.exe
+C:\Users\student.LAN\Downloads\GoodsCatalog\GoodsCatalog\bin\Debug\GoodsCatalog.pdb
+C:\Users\student.LAN\Downloads\GoodsCatalog\GoodsCatalog\obj\Debug\GoodsCatalog.csprojAssemblyReference.cache
+C:\Users\student.LAN\Downloads\GoodsCatalog\GoodsCatalog\obj\Debug\GoodsCatalog.Form1.resources
+C:\Users\student.LAN\Downloads\GoodsCatalog\GoodsCatalog\obj\Debug\GoodsCatalog.Properties.Resources.resources
+C:\Users\student.LAN\Downloads\GoodsCatalog\GoodsCatalog\obj\Debug\GoodsCatalog.csproj.GenerateResource.cache
+C:\Users\student.LAN\Downloads\GoodsCatalog\GoodsCatalog\obj\Debug\GoodsCatalog.csproj.CoreCompileInputs.cache
+C:\Users\student.LAN\Downloads\GoodsCatalog\GoodsCatalog\obj\Debug\GoodsCatalog.exe
+C:\Users\student.LAN\Downloads\GoodsCatalog\GoodsCatalog\obj\Debug\GoodsCatalog.pdb
+C:\Users\student.LAN\Downloads\GoodsCatalog\GoodsCatalog\obj\Debug\GoodsCatalog.CategoriesForm.resources
+C:\Users\student.LAN\Downloads\GoodsCatalog\GoodsCatalog\obj\Debug\GoodsCatalog.IconsForm.resources
+C:\Users\student.LAN\Downloads\GoodsCatalog\GoodsCatalog\obj\Debug\GoodsCatalog.LoginForm.resources
+C:\Users\student.LAN\Downloads\GoodsCatalog\GoodsCatalog\obj\Debug\GoodsCatalog.ProducersForm.resources
+C:\Users\student.LAN\Downloads\GoodsCatalog\GoodsCatalog\bin\Debug\goods.mdf
+C:\Users\student.LAN\Downloads\GoodsCatalog\GoodsCatalog\bin\Debug\goods_log.ldf
